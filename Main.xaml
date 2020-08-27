@@ -5,7 +5,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>1291,1021</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>1316,981</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>Main2_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -413,12 +413,6 @@
                                       <ui:InvokeWorkflowFile.Arguments>
                                         <InArgument x:TypeArguments="scg:Dictionary(x:String, x:Object)" x:Key="in_Config">
                                           <mva:VisualBasicValue x:TypeArguments="scg:Dictionary(x:String, x:Object)" ExpressionText="Config" />
-                                        </InArgument>
-                                        <InArgument x:TypeArguments="x:String" x:Key="in_Sys1Url">
-                                          <Literal x:TypeArguments="x:String" Value="" />
-                                        </InArgument>
-                                        <InArgument x:TypeArguments="x:String" x:Key="in_SHA1Url">
-                                          <Literal x:TypeArguments="x:String" Value="" />
                                         </InArgument>
                                         <InArgument x:TypeArguments="ss:SecureString" x:Key="in_Password" />
                                         <InArgument x:TypeArguments="x:String" x:Key="in_UserName" />

@@ -1,6 +1,6 @@
 {
-  "name": "UiPath_REFrameWork",
-  "description": "UiPath REFramework Template",
+  "name": "Calculate Hash",
+  "description": "Calculates a hash based on the credentials of a user in sys1",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.ComplexScenarios.Activities": "[1.1.0-preview]",
